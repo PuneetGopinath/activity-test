@@ -19,15 +19,3 @@ jobs:
         uses: Readme-Workflows/recent-activity@src-folder
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
-          # Dates
-          DATE_STRING: "Last Updated: {DATE} (Indian Standard Time)"
-          TIMEZONE: "Asia/Kolkata" # Or +5:30
-          # Events
-          COMMENTS_ACTIVITY: "![comment] Commented on {ID} in {REPO}"
-          ISSUE_OPENED: "![issueOpened] Opened issue {ID} in {REPO}"
-          ISSUE_CLOSED: "![issueClosed] Closed issue {ID} in {REPO}"
-          PR_OPENED: "![prOpened] Opened PR {ID} in {REPO}"
-          PR_CLOSED: "![prClosed] Closed PR {ID} in {REPO}"
-          PR_MERGED: "![prMerged] Merged PR {ID} in {REPO}"
