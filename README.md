@@ -1,18 +1,18 @@
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 22nd, 2021, 9:04:33 PM (Indian Standard Time)
+Last Updated: Monday, May 24th, 2021, 11:04:32 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] Commented on [#54](https://github.com/Readme-Workflows/recent-activity/pull/54#issuecomment-846424099) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846423968) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846423270) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846409229) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846407087) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846406552) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846406277) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846406132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846405343) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846404839) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prOpened] Opened PR [#1](https://github.com/Readme-Workflows/.github/pull/1) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
+2. ![star] Starred [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
+3. ![prOpened] Opened PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+4. ![prOpened] Opened PR [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+5. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666264582) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+6. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666262011) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+7. ![prOpened] Opened PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+8. ![fork] Forked [PuneetGopinath/abhijoshi2k](https://github.com/PuneetGopinath/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+9. ![approved] Approved [#5](https://github.com/Readme-Workflows/Readme-Icons/pull/5#pullrequestreview-666248529) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+10. ![star] Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 <!--RECENT_ACTIVITY:end-->
 
 [issueopened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueOpened.svg
