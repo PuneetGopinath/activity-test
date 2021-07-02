@@ -1,18 +1,18 @@
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 31st, 2021, 4:09:41 PM (Indian Standard Time)
+Last Updated: Friday, July 2nd, 2021, 1:22:45 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#68](https://github.com/Readme-Workflows/recent-activity/pull/68#pullrequestreview-672173006) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![fork] Forked [PuneetGopinath/welcome-bot](https://github.com/PuneetGopinath/welcome-bot) from [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-3. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-4. ![repoCreated] Created new repository [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-5. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-6. ![repoCreated] Created new repository [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-7. ![prMerged] Merged PR [#67](https://github.com/Readme-Workflows/recent-activity/pull/67) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#67](https://github.com/Readme-Workflows/recent-activity/pull/67#pullrequestreview-671810466) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-10. ![repoCreated] Created new repository [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+1. ![prMerged] Merged PR [#66](https://github.com/Welcome-Bot/welcome-bot/pull/66) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![issueOpened] Opened issue [#76](https://github.com/Readme-Workflows/recent-activity/issues/76) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![prOpened] Opened PR [#66](https://github.com/Welcome-Bot/welcome-bot/pull/66) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prOpened] Opened PR [#75](https://github.com/Readme-Workflows/recent-activity/pull/75) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![prMerged] Merged PR [#65](https://github.com/Welcome-Bot/welcome-bot/pull/65) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prOpened] Opened PR [#65](https://github.com/Welcome-Bot/welcome-bot/pull/65) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#64](https://github.com/Welcome-Bot/welcome-bot/pull/64) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prOpened] Opened PR [#64](https://github.com/Welcome-Bot/welcome-bot/pull/64) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#62](https://github.com/Welcome-Bot/welcome-bot/pull/62) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- Badges -->
