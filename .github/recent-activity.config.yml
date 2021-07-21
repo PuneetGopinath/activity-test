@@ -12,8 +12,8 @@ settings:
     #format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"
-  issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
-  issue_closed: "![issueClosed] Closed issue {ID} in {REPO}"
+  issue_opened: "{octicons/issueOpened} Opened issue {ID} in {REPO}"
+  issue_closed: "{octicons/issueClosed} Closed issue {ID} in {REPO}"
   pr_opened: "![prOpened] Opened PR {ID} in {REPO}"
   pr_closed: "![prClosed] Closed PR {ID} in {REPO}"
   pr_merged: "![prMerged] Merged PR {ID} in {REPO}"
