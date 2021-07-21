@@ -13,6 +13,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Add activity to readme
-        uses: Readme-Workflows/recent-activity@add-whitelist-feature
+        uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Use Readme replacer
+        uses: Readme-Workflows/readme-replacer@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
