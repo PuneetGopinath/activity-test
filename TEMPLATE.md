@@ -1,17 +1,17 @@
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 21st, 2021, 12:55:54 PM (Indian Standard Time)
+Last Updated: Wednesday, July 21st, 2021, 1:00:49 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] Commented on [#149](https://github.com/Welcome-Bot/welcome-bot/pull/149#issuecomment-883790472) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![comment] Commented on [#149](https://github.com/Welcome-Bot/welcome-bot/pull/149#discussion_r673575068) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![comment] Commented on [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4#issuecomment-883555017) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-4. ![comment] Commented on [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#issuecomment-883477061) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![comment] Commented on [#149](https://github.com/Welcome-Bot/welcome-bot/pull/149#issuecomment-883276569) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![comment] Commented on [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#issuecomment-883268889) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![comment] Commented on [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#issuecomment-883223759) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![comment] Commented on [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#issuecomment-883217846) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![comment] Commented on [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#issuecomment-883054474) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![release] Released [Pre release to test for release v0.1.0](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v0.1.0-rc1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+2. ![prMerged] Merged PR [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prOpened] Opened PR [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4#pullrequestreview-710870996) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+6. ![prMerged] Merged PR [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. {octicons/issueOpened} Opened issue [#152](https://github.com/Welcome-Bot/welcome-bot/issues/152) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. {octicons/issueOpened} Opened issue [#151](https://github.com/Welcome-Bot/welcome-bot/issues/151) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prOpened] Opened PR [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 
 <!--RECENT_ACTIVITY:end-->
 <!--
