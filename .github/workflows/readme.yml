@@ -18,6 +18,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Use Readme replacer
-        uses: Readme-Workflows/readme-replacer@fix
+        uses: Readme-Workflows/readme-replacer@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
