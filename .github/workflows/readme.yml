@@ -21,4 +21,3 @@ jobs:
         uses: Readme-Workflows/readme-replacer@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_REPLACER_FILE: './.github/customReplacer.json'
