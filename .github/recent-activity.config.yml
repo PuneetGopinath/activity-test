@@ -3,8 +3,8 @@ settings:
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 10
   readme_file: "./TEMPLATE.md"
-  whitelisted_events:
-    - "comments"
+  #whitelisted_events:
+    #- "comments"
   #url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+5:30"
