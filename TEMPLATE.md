@@ -1,18 +1,18 @@
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 10th, 2023, 8:31:37 PM (Indian Standard Time)
+Last Updated: Monday, April 10th, 2023, 8:42:22 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
-2. ⬆️ Pushed 2 commit(s) to [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
-3. {octicons/star} Starred [Artlfmj/server-pinger](https://github.com/Artlfmj/server-pinger)<br>
-4. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-5. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-6. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-7. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+1. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+2. {octicons/issueOpened} Opened issue [#3](https://github.com/PuneetGopinath/activity-test/issues/3) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
+3. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
+4. ⬆️ Pushed 2 commit(s) to [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
+5. {octicons/prMerged} Merged PR [#2](https://github.com/PuneetGopinath/activity-test/pull/2) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
+6. {octicons/star} Starred [Artlfmj/server-pinger](https://github.com/Artlfmj/server-pinger)<br>
+7. {octicons/prMerged} Merged PR [#12](https://github.com/PuneetGopinath/PuneetGopinath/pull/12) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
 8. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
 9. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-10. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+10. {octicons/prMerged} Merged PR [#13](https://github.com/PuneetGopinath/PuneetGopinath/pull/13) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
